@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sarthakc44
+- 👋 Hi, I’m Sarthak!
 - 👀 I’m interested in Machine Learning and Artificial Intelligence applications for sustainability, energy systems and electrification.
 - 🌱 I’m currently learning Deep Learning, NLP, Computer Vision, and Reinforcement Learning.
 - 💞️ I’m looking to collaborate on projects related to climate, environment, power & energy, or anything else that is interesting!
