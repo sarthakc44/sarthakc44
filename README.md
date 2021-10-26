@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Sarthak!
-- 👀 I’m interested in Machine Learning and Artificial Intelligence applications for sustainability, energy systems and electrification.
+- 👀 I’m interested in Machine Learning and Artificial Intelligence applications for sustainable development.
 - 🌱 I’m currently learning Deep Learning, NLP, Computer Vision, and GAN.
-- 💞️ I’m looking to collaborate on projects related to climate, environment, power & energy, or anything else that is interesting!
+- 💞️ I’m looking to collaborate on projects related to climate & environment, power & energy, or anything else that is interesting!
 - 📫 How to reach me: email [sarthakc44@gmail.com], linkedin [www.linkedin.com/in/sarthakchopra44/]
 
 <!---
