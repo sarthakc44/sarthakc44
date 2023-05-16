@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Sarthak!
-- 👀 I’m interested in Machine Learning and Artificial Intelligence applications for sustainable development.
-- 🌱 I’m currently learning Deep Learning, NLP, Computer Vision, and RL.
-- 💞️ I’m looking to collaborate on projects related to climate & environment, power & energy, or anything else that is interesting!
+- 👀 I’m interested in Data Science and Data Analytics for sustainable development.
+- 🌱 I’m currently exploring HuggingFace library and open source models, expecially LLMs.
+- 💞️ I’m looking to collaborate on projects with real world aplication or anything else that is interesting!
 - 📫 How to reach me: email [sarthakc44@gmail.com], linkedin [www.linkedin.com/in/sarthakchopra44/]
 
 <!---
